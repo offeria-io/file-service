@@ -1,5 +1,9 @@
 # File Service
 
+**Offeria — a product by [Al‑Wahha Al‑Sehriya](https://github.com/Al-Wahha-Al-Sehriya).**
+
+[Company website](https://wahasehriya.com/) · [Offeria repositories](https://github.com/offeria-io)
+
 ## Description
 The File Service provides an abstraction layer for file storage and management. it handles file uploads, downloads, and metadata storage, using MinIO for object storage and PostgreSQL for metadata.
 
